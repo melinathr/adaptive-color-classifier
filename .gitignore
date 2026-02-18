@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Arduino build outputs (keep .hex if you want)
+*.elf
+*.eep
+*.bin
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
